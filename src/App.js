@@ -7,7 +7,7 @@ function App() {
   return (
     <div className="App">
       
-      <WordCloud2/>
+      <WordCloud/>
     </div>
   );
 }
